@@ -1,0 +1,19 @@
+/* index.html */
+
+* {
+    font-size: 25px;
+  }
+
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 35px;
+}
+p {
+    font-size: 25px;
+}
+
+button {
+    text-decoration: none;
+    background-color: aqua;
+}
